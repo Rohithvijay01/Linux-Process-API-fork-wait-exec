@@ -1,3 +1,5 @@
+## NAME: ROHITH V
+## REG NO : 212223040174 
 # Linux-Process-API-fork-wait-exec-
 
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
@@ -25,8 +27,7 @@ Test the C Program for the desired output.
 
 ## PROGRAM :
 
-### DEVELOPED BY : ROHITH V
-### REG NO : 212223040174
+
 
 ## C Program to print process ID and parent Process ID using Linux API system calls :
 ```
